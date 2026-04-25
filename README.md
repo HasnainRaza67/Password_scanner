@@ -55,8 +55,8 @@ This project demonstrates practical cybersecurity concepts by analyzing password
 Clone the repository:
 
 ```bash
-git clone https://github.com/HasnainRaza67/password-security-analyzer.git
-cd password-security-analyzer
+git clone https://github.com/HasnainRaza67/password_scanner.git
+cd password_scanner
 ```
 
 Install dependencies:
@@ -72,7 +72,7 @@ pip install requests
 Run the program:
 
 ```bash
-python password_analyzer.py
+python password_scanner.py
 ```
 
 Enter a password when prompted:
